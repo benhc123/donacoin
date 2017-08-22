@@ -59,9 +59,6 @@ h2. misc
 
 First layouts mockup: https://github.com/makevoid/donacoin/blob/master/notes.md#first-layout-mockup
 
-h1. Install Donacoin and mine for a cause!
+h1. http://donacoin.com
 
-h1. http://donacoin.com !
-
-
-up - #btc_timestamp_2015_07
+h2. Install Donacoin and mine for a cause!
